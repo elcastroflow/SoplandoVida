@@ -1,0 +1,20 @@
+.evento
+{
+    height: 197px;
+    background-color: aquamarine;
+    width: 100%;
+}
+.calendario{
+    width: 276px;
+    height: 74px;
+    background-color: azure;
+    display: block;
+}
+.forma{
+    
+    width: 58px;
+    height: 58px;
+    background-color: red;
+    border-radius: 6px;
+    display: inline-block;
+}
